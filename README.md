@@ -1,6 +1,6 @@
 # Hi there, I'm Arti Verma 👋
 
-I'm a **Full-Stack Developer** passionate about building clean, functional, and user-centric web applications. I love working with modern technologies like **React.js** and **Next.js** to create seamless digital experiences.
+I'm a **Full-Stack Developer** passionate about **DSA** building clean, functional, and user-centric web applications. I love working with modern technologies like **React.js** and **Next.js** to create seamless digital experiences.
 
 ## 🚀 About Me
 - 🔭 I’m currently focused on building scalable full-stack applications.
