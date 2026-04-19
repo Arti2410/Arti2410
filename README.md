@@ -20,8 +20,8 @@ A disaster management and emergency response digital platform designed to stream
 A hybrid lead-generation and DIY website builder application featuring a dynamic navbar with real-time cost indicators.
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arti_2410&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arti_2410&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arti2410&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arti2410&layout=compact&theme=dark)
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/arti-verma-532489349/)
