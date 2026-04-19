@@ -9,7 +9,7 @@ I'm a **Full-Stack Developer** passionate about **DSA** building clean, function
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend:** Firebase, Node.js
+- **Backend:** Firebase, Node.js, MongoDB
 - **Tools:** VS Code, Git, GitHub
 
 ## 📂 Featured Projects
